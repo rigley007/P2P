@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding:utf-8
+#没搞完的代码  看个锤子  看了菊花流血而亡！
 
 import socket
 import struct
